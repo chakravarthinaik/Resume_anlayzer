@@ -1,3 +1,19 @@
+backend ---requirements.txt
+fastapi
+uvicorn
+pydantic
+python-multipart
+motor
+pypdf2
+google-genai
+python-dotenv
+aiofiles
+passlib==1.7.4
+python-jose
+bcrypt==4.3.0
+
+
+frontend---requirements.txt
 streamlit
 requests
 pandas
